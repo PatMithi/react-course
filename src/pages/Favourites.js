@@ -1,7 +1,9 @@
 import React from "react";
 
 function FavouritesPage () {
-    return <div>AllMeetupsPage</div>
+    return (
+        <div>Favourites</div>
+    );
 }
 
 export default FavouritesPage;

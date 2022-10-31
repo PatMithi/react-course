@@ -1,7 +1,9 @@
 import React from "react";
 
 function NewMeetupPage () {
-    return <div>AllMeetupsPage</div>
+    return (
+        <div>New Meetups</div>
+    );
 }
 
 export default NewMeetupPage;
