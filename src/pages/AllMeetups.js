@@ -2,7 +2,7 @@ import React from "react";
 
 function AllMeetupsPage () {
     return (
-        <div>AllMeetupsPage</div>
+        <div>All Meetups Page</div>
     );
 }
 
